@@ -1,6 +1,6 @@
 # BUMed
 
-A Flutter Web project about Diagnosing Sickness Using ML.
+A Flutter Web project about Diagnosing Illness Using ML.
 ML STILL IN PROGRESS.
 
 If you would like a live version, kindly visit: https://bumed-c32ec.web.app/#/minified:k7
